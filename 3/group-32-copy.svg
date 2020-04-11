@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0H24V24H0z" transform="translate(-5 -4)"/>
+        <text fill="#7C8796" font-family="anticon" font-size="16" font-weight="400" letter-spacing=".185" transform="translate(-5 -4)">
+            <tspan x="3.908" y="16"></tspan>
+        </text>
+    </g>
+</svg>
